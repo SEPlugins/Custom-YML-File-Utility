@@ -6,7 +6,7 @@ Custom YML File Utility
 </p>
 </br>
 <p>
-<font size=3>Below you will find the different methods that are included with this utility, as well as some helpful tips. </font>
+<font size=3>Below you will find the different methods that are included with this utility, as well as some helpful tips. Note that the utility class is the "CustomYML" file, and the example plugin is the "MainClass" file. </font>
 </p>
 Methods
 =====
